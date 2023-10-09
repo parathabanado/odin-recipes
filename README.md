@@ -1,0 +1,1 @@
+Revising the basics of HTML and learning how to use git
