@@ -1,0 +1,18 @@
+body {
+    text-align: center;
+}
+#header{
+    background-color: aquamarine;
+    color: wheat;
+    font-weight: bold;
+    text-decoration: dotted;
+}
+
+#list {
+    background-color: bisque;
+    color: chocolate;
+}
+
+a {
+    color: chocolate;
+}

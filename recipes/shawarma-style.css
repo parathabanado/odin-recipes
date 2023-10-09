@@ -1,0 +1,10 @@
+#top {
+    text-align: center;
+    background-color:firebrick;
+    padding-bottom: 30px;
+}
+
+#bottom {
+    background-color: blanchedalmond;
+    padding: 30px;
+}
